@@ -87,7 +87,7 @@ ev-dashboard/
 └── README.md
 ```
 
-## API Endpoints
+## API Endpoint Details
 
 - `GET /api/devices` - Get all devices
 - `GET /api/devices?status={status}` - Filter devices by status (active, warning, offline)
